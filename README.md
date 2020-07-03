@@ -1,4 +1,4 @@
-## Conference App 
+## Conference App
 
 TP:  
 1- Integrer ce repo dans jenkins   
